@@ -23,6 +23,7 @@ twitter_username: S0_And_S0
 
 # Build settings
 markdown: kramdown
+timezone: America/Los_Angeles
 theme: minima
 plugins:
   - jekyll-feed
