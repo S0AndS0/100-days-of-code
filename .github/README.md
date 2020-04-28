@@ -7,7 +7,7 @@
 Compilation of code tips and tricks over specified time period
 
 
-## [![Byte size of 100 Days Of Code][badge__master__100_days_of_code__source_code]][100_days_of_code__master__source_code] [![Open Issues][badge__issues__100_days_of_code]][issues__100_days_of_code] [![Open Pull Requests][badge__pull_requests__100_days_of_code]][pull_requests__100_days_of_code] [![Latest commits][badge__commits__100_days_of_code__master]][commits__100_days_of_code__master] [![100-days-of-code Demos][badge__gh_pages__100_days_of_code]][gh_pages__100_days_of_code]
+## [![Byte size of 100 Days Of Code][badge__gh_pages__100_days_of_code__source_code]][100_days_of_code__gh_pages__source_code] [![Open Issues][badge__issues__100_days_of_code]][issues__100_days_of_code] [![Open Pull Requests][badge__pull_requests__100_days_of_code]][pull_requests__100_days_of_code] [![Latest commits][badge__commits__100_days_of_code__gh_pages]][commits__100_days_of_code__gh_pages] [![100-days-of-code Demos][badge__gh_pages__100_days_of_code]][gh_pages__100_days_of_code]
 
 
 
@@ -132,11 +132,11 @@ For further details review full length version of [AGPL-3.0][branch__current__li
   "&#x2696; Full length version of AGPL-3.0 License"
 
 
-[badge__commits__100_days_of_code__master]:
-  https://img.shields.io/github/last-commit/S0AndS0/100-days-of-code/master.svg
+[badge__commits__100_days_of_code__gh_pages]:
+  https://img.shields.io/github/last-commit/S0AndS0/100-days-of-code/gh-pages.svg
 
-[commits__100_days_of_code__master]:
-  https://github.com/S0AndS0/100-days-of-code/commits/master
+[commits__100_days_of_code__gh_pages]:
+  https://github.com/S0AndS0/100-days-of-code/commits/gh-pages
   "&#x1F4DD; History of changes on this branch"
 
 
@@ -163,7 +163,7 @@ For further details review full length version of [AGPL-3.0][branch__current__li
   https://github.com/S0AndS0/100-days-of-code/pulls
   "&#x1F3D7; Pull Request friendly, though please check the Community guidelines"
 
-[100_days_of_code__master__source_code]:
+[100_days_of_code__gh_pages__source_code]:
   https://github.com/S0AndS0/100-days-of-code/
   "&#x2328; Project source!"
 
@@ -173,5 +173,5 @@ For further details review full length version of [AGPL-3.0][branch__current__li
 [badge__pull_requests__100_days_of_code]:
   https://img.shields.io/github/issues-pr/S0AndS0/100-days-of-code.svg
 
-[badge__master__100_days_of_code__source_code]:
+[badge__gh_pages__100_days_of_code__source_code]:
   https://img.shields.io/github/repo-size/S0AndS0/100-days-of-code
