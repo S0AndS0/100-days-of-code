@@ -1,0 +1,28 @@
+{% comment %}
+  Source: https://raw.githubusercontent.com/jekyll/minima/v2.5.0/_layouts/default.html
+  License: MIT
+{% endcomment %}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {% include modules/includes-translate/includes-translate.html %}
+        {{ content }}
+        {% if page.twitter-timeline %}
+          {% include modules/twitter-timeline/twitter-timeline.html %}
+        {% endif %}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

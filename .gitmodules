@@ -1,0 +1,16 @@
+[submodule "collection-home"]
+	path = _layouts/modules/collection-home
+	url = https://github.com/liquid-utilities/collection-home.git
+	branch = master
+[submodule "feed-rss2"]
+	path = _layouts/modules/feed-rss2
+	url = https://github.com/liquid-utilities/feed-rss2.git
+	branch = master
+[submodule "feed-atom"]
+	path = _layouts/modules/feed-atom
+	url = https://github.com/liquid-utilities/feed-atom.git
+	branch = master
+[submodule "includes-translate"]
+	path = _includes/modules/includes-translate
+	url = https://github.com/liquid-utilities/includes-translate.git
+	branch = master
