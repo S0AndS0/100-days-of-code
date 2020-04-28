@@ -152,7 +152,7 @@ For further details review full length version of [AGPL-3.0][branch__current__li
   https://img.shields.io/website/https/S0AndS0.github.io/100-days-of-code/index.html.svg?down_color=darkorange&down_message=Offline&label=Demo&logo=Demo%20Site&up_color=success&up_message=Online
 
 [gh_pages__100_days_of_code]:
-  https/S0AndS0.github.io/100-days-of-code/index.html
+  https://S0AndS0.github.io/100-days-of-code/index.html
   "&#x1F52C; Check the example collection tests"
 
 [issues__100_days_of_code]:
