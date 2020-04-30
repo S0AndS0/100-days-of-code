@@ -12,7 +12,7 @@ time_to_live: 1800
 Calculating with Bash when #100DaysofCode is finished...
 
 
-```Bash
+```bash
 date -d "+100 days" +'%Y-%m-%d'
 #> 2020-08-05
 ```
@@ -34,7 +34,7 @@ Checkout `date --help` for full list of formatting syntax.
 Till tomorrow here's one more example for going back in time...
 
 
-```Bash
+```bash
 date -d '-3 hour' +'%T'
 #> 19:59:41
 ```

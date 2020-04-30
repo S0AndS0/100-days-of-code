@@ -12,7 +12,7 @@ time_to_live: 1800
 Pad string in Bash with zeros...
 
 
-```Bash
+```bash
 printf '%03d\n' "1"
 #> 001
 
@@ -25,7 +25,7 @@ printf '%03d\n' "12"
 ... such options are often available within other languages too...
 
 
-```Bash
+```bash
 awk '{ printf("%03d\n", $1); }' <<<"3"
 #> 003
 ```

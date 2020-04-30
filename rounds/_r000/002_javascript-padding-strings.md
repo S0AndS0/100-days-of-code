@@ -12,7 +12,7 @@ time_to_live: 1800
 Zero padding values with JavaScript...
 
 
-```JavaScript
+```javascript
 const pad = (value, padding, amount) => {
   return (padding.toString().repeat(amount) + value).slice(-amount);
 };
