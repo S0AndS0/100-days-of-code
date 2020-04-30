@@ -14,6 +14,15 @@ Calculating with JavaScript when `#100DaysofCode` is finished...
 
 ```javascript
 /**
+ * Customized object returned by `formatDate` function
+ * @typedef {Object} formattedDate
+ * @property {number} year
+ * @property {number} month
+ * @property {number} day
+ */
+
+
+/**
  * Returns date object offset by number of days provided
  * @param {number} days - Amount of days to add (or subtract) to current time
  * @returns {Date}
@@ -28,7 +37,7 @@ const addDays = (days) => {
 /**
  * Offsets month and zero-pads both month and day
  * @param {Date} date - Date object to format and return as dictionary
- * @returns {{year: number, month: number. day: number}}
+ * @returns {formattedDate}
  */
 const formatDate = (date) => {
   return {
@@ -64,4 +73,6 @@ ___
 ## Attribution
 
 
-- [How do I get month and date of JavaScript in 2 digit format](https://stackoverflow.com/questions/6040515/)
+- [StackOverflow -- How do I get month and date of JavaScript in 2 digit format](https://stackoverflow.com/questions/6040515/)
+
+- [StackOverflow -- JSDoc return object structure](https://stackoverflow.com/questions/28763257/)
