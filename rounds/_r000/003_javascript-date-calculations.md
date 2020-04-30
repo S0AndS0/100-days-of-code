@@ -17,8 +17,8 @@ Calculating with JavaScript when `#100DaysofCode` is finished...
  * Customized object returned by `formatDate` function
  * @typedef {Object} formattedDate
  * @property {number} year
- * @property {number} month
- * @property {number} day
+ * @property {string} month
+ * @property {string} day
  */
 
 
