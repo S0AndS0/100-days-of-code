@@ -12,7 +12,12 @@ time_to_live: 1800
 Calculating with JavaScript when `#100DaysofCode` is finished...
 
 
-```JavaScript
+```javascript
+/**
+ * Returns date object offset by number of days provided
+ * @param {number} days - Amount of days to add (or subtract) to current time
+ * @returns {Date}
+ */
 const addDays = (days) => {
   const date = new Date();
   date.setDate(date.getDate() + days);
@@ -20,17 +25,24 @@ const addDays = (days) => {
 };
 
 
-const date = addDays(100);
+/**
+ * Offsets month and zero-pads both month and day
+ * @param {Date} date - Date object to format and return as dictionary
+ * @returns {{year: number, month: number. day: number}}
+ */
+const formatDate = (date) => {
+  return {
+    year: date.getFullYear(),
+    month: ("0" + (date.getMonth() + 1)).slice(-2),
+    day: ("0" + date.getDate()).slice(-2)
+  };
+}
 
 
-const formattedDate = {
-  year: date.getFullYear(),
-  month: ("0" + (date.getMonth() + 1)).slice(-2),
-  day: ("0" + date.getDate()).slice(-2)
-};
-
+const formattedDate = formatDate(addDays(100));
 
 console.log(`${formattedDate.year}-${formattedDate.month}-${formattedDate.day}`);
+//> 2020-08-08
 ```
 
 
