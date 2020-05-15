@@ -18,11 +18,16 @@ Dependency free floating point math from the command-line
 ```bash
 #!/usr/bin/env bash
 
-calc() { awk 'BEGIN { print '"$@"'; }'; }
+calc() {
+  awk 'BEGIN { print '"${@//inf/(2 ** 1024)}"'; }'
+}
 
 calc '1/2'
 #> 0.5
 ```
+
+
+------
 
 
 Alternatively, the above may be expressed as an Awk script for parsing file like inputs...
@@ -35,6 +40,7 @@ Alternatively, the above may be expressed as an Awk script for parsing file like
 #!/usr/bin/awk -f
 
 function calc(expression) {
+  gsub("inf", "(2 ** 1024)", expression)
   system(sprintf("awk \"BEGIN {printf(" expression ")}\""))
 }
 
@@ -87,3 +93,5 @@ calc.awk file.one file.two
 
 
 - [StackOverflow -- evaluate arithmetic expression passed as argument in awk](https://stackoverflow.com/a/46511043)
+
+- [Twitter -- `inf` explanation from @DracoMetallium](https://twitter.com/DracoMetallium/status/1260939962477948932)
