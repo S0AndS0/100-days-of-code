@@ -45,18 +45,18 @@ Example usage...
 
 
 ```bash
-[[ $(compare_floats '2.1 > 1.2') ]] && {
-  printf 'totally true\n'
-} || {
-  printf >&2 'oh so false\n'
-}
-#> oh so false
-
-
-test "compare_floats '2.1 > 1.2'" && {
+compare_floats '2.1 > 1.2' && {
   printf 'totally true\n'
 } || {
   printf >&2 'oh so false\n'
 }
 #> totally true
+
+
+if compare_floats '2.1 < 1.2'; then
+  printf 'totally true\n'
+else
+  printf >&2 'oh so false\n'
+fi
+#> oh so false
 ```
