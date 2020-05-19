@@ -25,7 +25,7 @@ In JavaScript `String.indexOf()` returns first index of target character(s) with
 var str = '555555565565';
 var target = '65';
 
-if (str.indexOf(target) > 0) {
+if (str.indexOf(target) >= 0) {
   console.log(`Found ${target} within ${str}`);
 }
 ```
@@ -48,3 +48,9 @@ if (str.endsWith(6)) {
 
 
 One additional thing to remember is that for all three of these methods types are coerced.
+
+
+## Attribution
+
+
+- [Twitter -- @lou_alcala provided correction of `>=`](https://twitter.com/lou_alcala/status/1262537125695819782)
