@@ -14,3 +14,7 @@
 	path = _includes/modules/includes-translate
 	url = https://github.com/liquid-utilities/includes-translate.git
 	branch = master
+[submodule "includes-mathjax"]
+	path = _includes/modules/includes-mathjax
+	url = https://github.com/liquid-utilities/includes-mathjax.git
+	branch = master
