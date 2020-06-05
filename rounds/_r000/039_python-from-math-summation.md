@@ -14,7 +14,7 @@ Example of translating Math summation to Python syntax...
 
 
 $$
-\sum\limits_{i=1}^{10}2_{n}
+\sum\limits_{n=1}^{10}2_{n}
 $$
 
 
