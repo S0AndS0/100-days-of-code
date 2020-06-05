@@ -18,8 +18,8 @@ time_to_live: 1800
 
 - [More Resources][heading__more_resources]
 
-------
 
+------
 
 
 No peeking, what's `this.prop` value?...
@@ -75,9 +75,9 @@ console.log('3', this.prop);
 
 - `1` is calling the global scoped value of `this`
 
-- `2` was initialized with the `new` keyword, which starts a _new_ execution scope
+- `2` the `new` keyword, which starts a _new_ execution scope
 
-- `3` is why it's a good idea to use `class` _syntactic sugar_ for functions that utilize `this`
+- `3` is why `class` _syntactic sugar_ is often a good idea for functions that utilize `this`
 
 
 ```
