@@ -13,13 +13,13 @@ Both `Array.map()` and `Array.forEach()` methods are Asynchronous compatible...
 
 
 ```javascript
-async function addLatter(number) {
+async function addLater(number) {
   return number * 2;
 }
 
 async function listOfPromises(amount) {
   return Array(amount).fill().map(async (_, index) => {
-    return addLatter(index);
+    return addLater(index);
   });
 }
 
