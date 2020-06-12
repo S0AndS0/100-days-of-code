@@ -18,7 +18,7 @@ $$
 $$
 
 
-```Python
+```python
 n = 1
 total = 0
 while n <= 10:
