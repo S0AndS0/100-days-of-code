@@ -14,7 +14,7 @@ Beginner to intermediate challenge. Write a function (without the `toString()` m
 
 ```javascript
 decimalToBase(10, 16);
-//> "0x10"
+//> "0xa"
 
 decimalToBase(15, 16);
 //> "0xf"
@@ -22,3 +22,17 @@ decimalToBase(15, 16);
 
 
 ... I'll publish my implementation in two weeks.
+
+
+Hints:
+
+
+Part `a` of [TutorialsPoint -- How to Convert Decimal to Hexadecimal?](https://www.tutorialspoint.com/how-to-convert-decimal-to-hexadecimal) shows one method with Math to convert integers
+
+While writing your implementation, the `toString()` method can be used to double check results, eg,,,
+
+
+```javascript
+(10).toString(16);
+// "a"
+```
