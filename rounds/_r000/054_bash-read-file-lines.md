@@ -20,3 +20,13 @@ done <"directory/file.ext"
 
 
 > Note, there's no need of `cat` command if `<` redirection is used instead.
+
+
+Example of reading lines from command's Standard Out...
+
+
+```bash
+while read -r _line; do
+  printf '%s\n' "${_line}"
+done < <(ls "./")
+```
