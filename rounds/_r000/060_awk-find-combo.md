@@ -70,3 +70,13 @@ Example usage for `awk-find.awk` script...
 ```bash
 ./awk-find.awk directory='.' pattern='#_message'
 ```
+
+
+___
+
+
+## Attribution
+[heading__attribution]: #attribution "&#x1F4C7; Resources that where helpful in writing this post so far."
+
+
+- [GNU Awk -- 4.10.4 Using `getline` into a Variable from a File](https://www.gnu.org/software/gawk/manual/html_node/Getline_002fVariable_002fFile.html)
