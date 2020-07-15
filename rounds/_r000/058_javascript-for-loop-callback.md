@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript `for` loop callback
 date: 2020-06-24 12:35:36 -0700
-#date_updated:  # Optional and formatted like Wed Jun 24 12:35:36 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using callbacks within `for` loop iteration
 time_to_live: 1800
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Awk float comparison hack for Bash
 date: 2020-05-17 12:45:11 -0700
-#date_updated:  # Optional and formatted like Sun May 17 12:45:11 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: By default Bash does not support floating point number comparisons
 time_to_live: 1800
 ---

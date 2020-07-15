@@ -2,7 +2,7 @@
 layout: post
 title: Bash Date Calculations
 date: 2020-04-27 21:08:27 -0700
-#date_updated:  # Optional and formatted like Mon Apr 27 21:08:27 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Hacking time within the Bash shell
 time_to_live: 1800
 ---

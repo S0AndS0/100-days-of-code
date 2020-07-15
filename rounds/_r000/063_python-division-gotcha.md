@@ -2,7 +2,7 @@
 layout: post
 title: Python division gotcha
 date: 2020-06-29 12:21:05 -0700
-#date_updated:  # Optional and formatted like Mon Jun 29 12:21:05 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Examples of float vs integer division
 time_to_live: 1800
 ---

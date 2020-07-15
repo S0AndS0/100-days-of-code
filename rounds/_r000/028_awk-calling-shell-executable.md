@@ -2,7 +2,7 @@
 layout: post
 title: Awk calling shell executable
 date: 2020-05-25 11:19:06 -0700
-#date_updated:  # Optional and formatted like Mon May 25 11:19:06 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of calling `ls` and reading STDOUT within Awk script
 time_to_live: 1800
 ---

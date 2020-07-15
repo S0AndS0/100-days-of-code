@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript 2D Element Matrix
 date: 2020-05-24 10:23:56 -0700
-#date_updated:  # Optional and formatted like Sun May 24 10:23:56 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: An example of using `Array(_n_).fill()` and `Array.map()`
 time_to_live: 1800
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Python Modulo Example
 date: 2020-06-12 09:39:35 -0700
-#date_updated:  # Optional and formatted like Fri Jun 12 09:39:35 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: How to check if integer is even
 time_to_live: 1800
 ---

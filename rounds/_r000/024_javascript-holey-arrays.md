@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Holey Arrays
 date: 2020-05-21 14:02:31 -0700
-#date_updated:  # Optional and formatted like Thu May 21 14:02:31 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of sanitizing empty slots
 time_to_live: 1800
 ---

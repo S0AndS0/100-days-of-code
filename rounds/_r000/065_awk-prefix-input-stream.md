@@ -2,7 +2,7 @@
 layout: post
 title: Awk prefix input stream
 date: 2020-07-01 14:09:03 -0700
-#date_updated:  # Optional and formatted like Wed Jul  1 14:09:03 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Script that conditionally prefixes input stream
 time_to_live: 1800
 ---

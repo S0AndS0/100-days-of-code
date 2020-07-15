@@ -2,7 +2,7 @@
 layout: post
 title: Bash Divide By Zero Gotcha
 date: 2020-05-14 11:41:39 -0700
-#date_updated:  # Optional and formatted like Thu May 14 11:41:39 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: '`local` prevents trapping errors'
 time_to_live: 1800
 ---

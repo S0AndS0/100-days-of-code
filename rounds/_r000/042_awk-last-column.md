@@ -2,7 +2,7 @@
 layout: post
 title: Awk Last Column
 date: 2020-06-08 11:04:37 -0700
-#date_updated:  # Optional and formatted like Mon Jun  8 11:04:37 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of obtaining and using last column Awk variable
 time_to_live: 1800
 ---

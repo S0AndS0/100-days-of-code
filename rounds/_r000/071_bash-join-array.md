@@ -2,7 +2,7 @@
 layout: post
 title: Bash join array
 date: 2020-07-07 12:40:44 -0700
-#date_updated:  # Optional and formatted like Tue Jul  7 12:40:44 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Function to join Bash array/list
 time_to_live: 1800
 ---

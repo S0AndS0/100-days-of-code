@@ -2,7 +2,7 @@
 layout: post
 title: Bash Pattern Matching
 date: 2020-06-06 15:45:23 -0700
-#date_updated:  # Optional and formatted like Sat Jun  6 15:45:23 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of replacing characters that are not of numeric or alphabet class
 time_to_live: 1800
 ---

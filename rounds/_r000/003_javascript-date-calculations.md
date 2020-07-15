@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Date Calculations
 date: 2020-04-30 11:26:25 -0700
-#date_updated:  # Optional and formatted like Thu Apr 30 11:26:25 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Hacking time with JavaScript
 time_to_live: 1800
 ---

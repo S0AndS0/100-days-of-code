@@ -2,7 +2,7 @@
 layout: post
 title: Bash Command Redirection
 date: 2020-05-20 09:41:55 -0700
-#date_updated:  # Optional and formatted like Wed May 20 09:41:55 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of passing commands to another account
 time_to_live: 1800
 ---

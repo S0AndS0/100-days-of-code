@@ -2,7 +2,7 @@
 layout: post
 title: Python custom class
 date: 2020-06-21 10:13:51 -0700
-#date_updated:  # Optional and formatted like Sun Jun 21 10:13:51 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of a custom Python class with inheritance
 time_to_live: 1800
 ---

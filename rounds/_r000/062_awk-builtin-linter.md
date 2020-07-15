@@ -2,7 +2,7 @@
 layout: post
 title: Awk builtin linter
 date: 2020-06-28 11:08:36 -0700
-#date_updated:  # Optional and formatted like Sun Jun 28 11:08:36 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Examples of using the builtin linter within Awk from GNU
 time_to_live: 1800
 ---

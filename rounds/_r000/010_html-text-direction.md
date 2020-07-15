@@ -2,7 +2,7 @@
 layout: post
 title: HTML Text Direction
 date: 2020-05-07 09:40:12 -0700
-#date_updated:  # Optional and formatted like Thu May  7 09:40:12 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Individual HTML elements can define text direction
 time_to_live: 1800
 ---

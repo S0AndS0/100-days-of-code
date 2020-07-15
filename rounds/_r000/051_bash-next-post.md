@@ -2,7 +2,7 @@
 layout: post
 title: Bash next post
 date: 2020-06-17 10:36:05 -0700
-#date_updated:  # Optional and formatted like Wed Jun 17 10:36:05 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Function that prints the index for new post file
 time_to_live: 1800
 ---

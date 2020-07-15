@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Convert Decimal to Another Base
 date: 2020-05-16 14:39:50 -0700
-#date_updated:  # Optional and formatted like Sat May 16 14:39:50 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Using `toString()` and Bitwise operators to convert numbers
 time_to_live: 1800
 ---

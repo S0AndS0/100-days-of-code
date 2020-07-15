@@ -2,7 +2,7 @@
 layout: post
 title: Awk `gsub` `FILENAME`
 date: 2020-06-15 13:32:24 -0700
-#date_updated:  # Optional and formatted like Mon Jun 15 13:32:24 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using `gsub` function on `FILENAME` to count post languages
 time_to_live: 1800
 ---

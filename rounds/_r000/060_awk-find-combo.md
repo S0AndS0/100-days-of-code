@@ -2,7 +2,7 @@
 layout: post
 title: Awk Find combo
 date: 2020-06-26 14:24:03 -0700
-#date_updated:  # Optional and formatted like Fri Jun 26 14:24:03 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of combining `awk` and `find` command-line utilities
 time_to_live: 1800
 ---

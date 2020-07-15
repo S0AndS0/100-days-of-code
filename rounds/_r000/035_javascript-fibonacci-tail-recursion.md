@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Fibonacci Tail Recursion
 date: 2020-06-01 10:24:12 -0700
-#date_updated:  # Optional and formatted like Mon Jun  1 10:24:12 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example calculating Fibonacci sequence using tail recursion
 time_to_live: 1800
 ---

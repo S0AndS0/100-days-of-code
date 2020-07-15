@@ -2,7 +2,7 @@
 layout: post
 title: Awk Space Replace and Lowercase
 date: 2020-05-01 09:28:14 -0700
-#date_updated:  # Optional and formatted like Fri May  1 09:28:14 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: String mutation Awk examples
 time_to_live: 1800
 ---

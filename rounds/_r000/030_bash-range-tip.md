@@ -2,7 +2,7 @@
 layout: post
 title: Bash range tip
 date: 2020-05-27 14:44:54 -0700
-#date_updated:  # Optional and formatted like Wed May 27 14:44:54 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: The `{_start_.._end_}` syntax works in places other than `for` loops
 time_to_live: 1800
 ---

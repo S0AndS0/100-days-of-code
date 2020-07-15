@@ -2,7 +2,7 @@
 layout: post
 title: Three code publishing tips
 date: 2020-06-27 09:45:22 -0700
-#date_updated:  # Optional and formatted like Sat Jun 27 09:45:22 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Examples of how to separate the responsibilities of a project
 time_to_live: 1800
 ---

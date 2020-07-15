@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Reduce Key Value Pares
 date: 2020-05-13 14:39:52 -0700
-#date_updated:  # Optional and formatted like Wed May 13 14:39:52 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of `reduce` on object `entries` for uniq key value pares
 time_to_live: 1800
 ---

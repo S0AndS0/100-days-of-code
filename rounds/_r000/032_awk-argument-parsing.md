@@ -2,7 +2,7 @@
 layout: post
 title: Awk argument parsing
 date: 2020-05-29 11:05:54 -0700
-#date_updated:  # Optional and formatted like Fri May 29 11:05:54 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of parsing arguments within Awk script
 time_to_live: 1800
 ---

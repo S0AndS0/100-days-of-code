@@ -2,7 +2,7 @@
 layout: post
 title: Bash send SSH commands
 date: 2020-06-02 11:19:09 -0700
-#date_updated:  # Optional and formatted like Tue Jun  2 11:19:09 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using heredoc to send multiple commands to remote host
 time_to_live: 1800
 ---

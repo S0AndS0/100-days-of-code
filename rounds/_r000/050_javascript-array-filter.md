@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Array Filter
 date: 2020-06-16 11:02:06 -0700
-#date_updated:  # Optional and formatted like Tue Jun 16 11:02:06 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of filtering an Array for odd or even numbers
 time_to_live: 1800
 ---

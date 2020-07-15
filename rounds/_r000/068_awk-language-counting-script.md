@@ -2,7 +2,7 @@
 layout: post
 title: Awk language counting script
 date: 2020-07-04 11:56:24 -0700
-#date_updated:  # Optional and formatted like Sat Jul  4 11:56:24 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using Awk to print statistics about posts published
 time_to_live: 1800
 ---

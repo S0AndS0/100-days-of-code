@@ -2,7 +2,7 @@
 layout: post
 title: Awk title case
 date: 2020-06-22 10:04:28 -0700
-#date_updated:  # Optional and formatted like Mon Jun 22 10:04:28 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example script that title cases all words in string
 time_to_live: 1800
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Python from Math summation
 date: 2020-06-05 13:59:07 -0700
-#date_updated:  # Optional and formatted like Fri Jun  5 13:59:07 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of translating Math summation to Python syntax
 time_to_live: 1800
 mathjax: true

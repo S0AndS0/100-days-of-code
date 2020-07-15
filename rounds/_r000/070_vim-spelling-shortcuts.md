@@ -2,7 +2,7 @@
 layout: post
 title: Vim spelling shortcuts
 date: 2020-07-06 10:37:41 -0700
-#date_updated:  # Optional and formatted like Mon Jul  6 10:37:41 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Vim script plugin example
 time_to_live: 1800
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Python generator example
 date: 2020-07-11 11:36:16 -0700
-#date_updated:  # Optional and formatted like Sat Jul 11 11:36:16 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using `yield` within a function
 time_to_live: 1800
 ---

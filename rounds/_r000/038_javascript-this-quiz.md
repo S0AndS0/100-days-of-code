@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript `this` quiz
 date: 2020-06-04 09:48:50 -0700
-#date_updated:  # Optional and formatted like Thu Jun  4 09:48:50 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Quick example of `this` scope and one big gotcha
 time_to_live: 1800
 ---

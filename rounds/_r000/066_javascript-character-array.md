@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript character array
 date: 2020-07-02 10:44:06 -0700
-#date_updated:  # Optional and formatted like Thu Jul  2 10:44:06 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using Spread Syntax in JavaScript to build character arrays
 time_to_live: 1800
 ---

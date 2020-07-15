@@ -2,7 +2,7 @@
 layout: post
 title: Git hooks on push
 date: 2020-05-31 11:39:12 -0700
-#date_updated:  # Optional and formatted like Sun May 31 11:39:12 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Bash script that runs Git hooks on push
 time_to_live: 1800
 ---

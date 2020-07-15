@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript character counting function
 date: 2020-07-13 12:04:24 -0700
-#date_updated:  # Optional and formatted like Mon Jul 13 12:04:24 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using `Array.reduce()` to count characters in a string
 time_to_live: 1800
 ---

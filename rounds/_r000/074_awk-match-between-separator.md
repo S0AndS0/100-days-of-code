@@ -2,7 +2,7 @@
 layout: post
 title: Awk match between separator
 date: 2020-07-10 16:42:58 -0700
-#date_updated:  # Optional and formatted like Fri Jul 10 16:42:58 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using `index` and `substr` functions to extract between separator
 time_to_live: 1800
 ---

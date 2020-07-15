@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Type Inspection
 date: 2020-05-26 10:35:24 -0700
-#date_updated:  # Optional and formatted like Tue May 26 10:35:24 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Function that demonstrates some messy bits of JavaScript types
 time_to_live: 1800
 ---

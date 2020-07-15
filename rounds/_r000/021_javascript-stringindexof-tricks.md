@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript `String.indexOf()` tricks
 date: 2020-05-18 14:38:24 -0700
-#date_updated:  # Optional and formatted like Mon May 18 14:38:24 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: '`String.indexOf()` returns first index of target character(s) within a string'
 time_to_live: 1800
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Awk Floating Point Calculator
 date: 2020-05-11 08:56:30 -0700
-#date_updated:  # Optional and formatted like Mon May 11 08:56:30 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Dependency free floating point math from the command-line
 time_to_live: 1800
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Decimal Conversion Challenge
 date: 2020-06-13 10:15:16 -0700
-#date_updated:  # Optional and formatted like Sat Jun 13 10:15:16 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Coding challenge, convert Decimal integer to another base
 time_to_live: 1800
 ---

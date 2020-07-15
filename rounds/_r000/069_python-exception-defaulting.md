@@ -2,7 +2,7 @@
 layout: post
 title: Python exception defaulting
 date: 2020-07-05 11:17:40 -0700
-#date_updated:  # Optional and formatted like Sun Jul  5 11:17:40 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of handling specific exception type and defaulting
 time_to_live: 1800
 ---

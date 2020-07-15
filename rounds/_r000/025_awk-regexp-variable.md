@@ -2,7 +2,7 @@
 layout: post
 title: Awk RegExp variable
 date: 2020-05-22 13:09:16 -0700
-#date_updated:  # Optional and formatted like Fri May 22 13:09:16 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of matching Regular Expression defined by variable
 time_to_live: 1800
 ---

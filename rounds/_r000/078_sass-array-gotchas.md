@@ -2,7 +2,7 @@
 layout: post
 title: Sass array gotchas
 date: 2020-07-14 11:42:55 -0700
-#date_updated:  # Optional and formatted like Tue Jul 14 11:42:55 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Array index addresses start at `1` not `0`
 time_to_live: 1800
 ---

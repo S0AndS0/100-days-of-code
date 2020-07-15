@@ -2,7 +2,7 @@
 layout: post
 title: Git Targeted Undo
 date: 2020-05-08 09:20:13 -0700
-#date_updated:  # Optional and formatted like Fri May  8 09:20:13 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Turning back time with Git
 time_to_live: 1800
 ---

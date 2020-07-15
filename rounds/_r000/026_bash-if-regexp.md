@@ -2,7 +2,7 @@
 layout: post
 title: Bash `if` RegExp
 date: 2020-05-23 09:54:00 -0700
-#date_updated:  # Optional and formatted like Sat May 23 09:54:00 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of Regular Expression branching/matching
 time_to_live: 1800
 ---

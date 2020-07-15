@@ -2,7 +2,7 @@
 layout: post
 title: Bash File Name Pattern Match
 date: 2020-06-10 10:47:22 -0700
-#date_updated:  # Optional and formatted like Wed Jun 10 10:47:22 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of extracting a file name with Pattern Match built-ins within Bash
 time_to_live: 1800
 ---

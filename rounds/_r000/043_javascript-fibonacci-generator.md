@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Fibonacci Generator
 date: 2020-06-09 10:30:05 -0700
-#date_updated:  # Optional and formatted like Tue Jun  9 10:30:05 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of using `yield` within a function to generate Fibonacci sequence
 time_to_live: 1800
 ---

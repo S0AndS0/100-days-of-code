@@ -2,7 +2,7 @@
 layout: post
 title: Python from Math Function
 date: 2020-06-03 10:48:41 -0700
-#date_updated:  # Optional and formatted like Wed Jun  3 10:48:41 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Example of translating Math function to Python syntax
 time_to_live: 1800
 mathjax: true

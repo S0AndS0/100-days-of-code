@@ -2,7 +2,7 @@
 layout: post
 title: Bash Padding Strings
 date: 2020-04-28 10:47:52 -0700
-#date_updated:  # Optional and formatted like Tue Apr 28 10:47:52 PDT 2020 above
+#date_updated:  # Optional and formatted like 'date' above
 description: Pad string in Bash with zeros
 time_to_live: 1800
 ---
