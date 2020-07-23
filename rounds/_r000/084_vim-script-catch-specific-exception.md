@@ -16,7 +16,7 @@ Example of re-throwing all but a specific exception type...
 try
   s/foo/bar/
 catch
-  if v:exception !~ /^Vim\%((\a\+)\)\=:E486/
+  if v:exception !~ '^Vim\%((\a\+)\)\=:E486'
     throw v:exception
   endif
 endtry
