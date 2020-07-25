@@ -5,6 +5,7 @@ date: 2020-07-17 12:18:26 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of Awk column selection by variable
 time_to_live: 1800
+category: awk
 ---
 
 

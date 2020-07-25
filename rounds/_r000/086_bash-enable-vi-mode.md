@@ -5,6 +5,7 @@ date: 2020-07-22 10:48:38 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: How to enable Vi shortcuts within Bash shell
 time_to_live: 1800
+category: bash
 ---
 
 

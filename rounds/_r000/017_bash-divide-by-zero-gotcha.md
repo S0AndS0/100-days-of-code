@@ -5,6 +5,7 @@ date: 2020-05-14 11:41:39 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: '`local` prevents trapping errors'
 time_to_live: 1800
+category: bash
 ---
 
 

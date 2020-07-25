@@ -5,6 +5,7 @@ date: 2020-05-08 09:20:13 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Turning back time with Git
 time_to_live: 1800
+category: git
 ---
 
 

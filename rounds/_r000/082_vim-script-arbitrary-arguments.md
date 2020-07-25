@@ -5,6 +5,7 @@ date: 2020-07-18 12:18:58 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example Vim script function that accepts arbitrary number of arguments
 time_to_live: 1800
+category: vim
 ---
 
 

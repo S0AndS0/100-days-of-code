@@ -6,6 +6,7 @@ date: 2020-06-03 10:48:41 -0700
 description: Example of translating Math function to Python syntax
 time_to_live: 1800
 mathjax: true
+category: python
 ---
 
 

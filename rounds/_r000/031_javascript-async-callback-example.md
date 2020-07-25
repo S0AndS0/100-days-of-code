@@ -5,6 +5,7 @@ date: 2020-05-28 11:16:43 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Both `Array.map()` and `Array.forEach()` methods are Asynchronous compatible
 time_to_live: 1800
+category: javascript
 ---
 
 

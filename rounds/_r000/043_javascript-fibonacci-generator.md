@@ -5,6 +5,7 @@ date: 2020-06-09 10:30:05 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using `yield` within a function to generate Fibonacci sequence
 time_to_live: 1800
+category: javascript
 ---
 
 

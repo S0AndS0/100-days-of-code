@@ -5,6 +5,7 @@ date: 2020-07-16 11:51:26 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of how to initialize and append to an empty Liquid list
 time_to_live: 1800
+category: liquid
 ---
 
 

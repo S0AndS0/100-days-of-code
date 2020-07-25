@@ -6,6 +6,7 @@ date: 2020-06-05 13:59:07 -0700
 description: Example of translating Math summation to Python syntax
 time_to_live: 1800
 mathjax: true
+category: python
 ---
 
 

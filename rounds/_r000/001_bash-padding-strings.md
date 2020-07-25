@@ -5,6 +5,7 @@ date: 2020-04-28 10:47:52 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Pad string in Bash with zeros
 time_to_live: 1800
+category: bash
 ---
 
 

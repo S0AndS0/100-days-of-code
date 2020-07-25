@@ -5,6 +5,7 @@ date: 2020-06-11 11:02:47 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Using an Awk array (map) to sort and count unique lines or columns
 time_to_live: 1800
+category: awk
 ---
 
 

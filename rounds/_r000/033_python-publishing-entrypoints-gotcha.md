@@ -5,6 +5,7 @@ date: 2020-05-30 10:02:41 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: '`entry_points["console_scripts"]` are imported by installed scripts'
 time_to_live: 1800
+category: python
 ---
 
 

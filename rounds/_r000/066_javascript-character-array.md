@@ -5,6 +5,7 @@ date: 2020-07-02 10:44:06 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using Spread Syntax in JavaScript to build character arrays
 time_to_live: 1800
+category: javascript
 ---
 
 

@@ -5,6 +5,7 @@ date: 2020-07-04 11:56:24 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using Awk to print statistics about posts published
 time_to_live: 1800
+category: awk
 ---
 
 

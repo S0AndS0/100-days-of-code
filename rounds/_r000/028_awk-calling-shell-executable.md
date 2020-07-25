@@ -5,6 +5,7 @@ date: 2020-05-25 11:19:06 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of calling `ls` and reading STDOUT within Awk script
 time_to_live: 1800
+category: awk
 ---
 
 

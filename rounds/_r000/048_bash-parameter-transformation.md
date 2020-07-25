@@ -5,6 +5,7 @@ date: 2020-06-14 11:04:20 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using Bash Parameter Transformation options to prevent expansion
 time_to_live: 1800
+category: bash
 ---
 
 

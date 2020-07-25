@@ -5,6 +5,7 @@ date: 2020-07-20 09:58:40 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of re-throwing all but a specific exception type
 time_to_live: 1800
+category: vim
 ---
 
 

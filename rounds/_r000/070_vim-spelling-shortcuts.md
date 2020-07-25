@@ -5,6 +5,7 @@ date: 2020-07-06 10:37:41 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Vim script plugin example
 time_to_live: 1800
+category: vim
 ---
 
 

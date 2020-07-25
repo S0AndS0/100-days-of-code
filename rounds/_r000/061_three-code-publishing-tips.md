@@ -5,6 +5,7 @@ date: 2020-06-27 09:45:22 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Examples of how to separate the responsibilities of a project
 time_to_live: 1800
+category: three
 ---
 
 
@@ -150,79 +151,4 @@ ___
 
 
 ## Documentation Answers "How?"
-[heading__documentation_answers_how]: #documentation-answers-how "Eg. _how_ to utilize the code..."
-
-
-_How_ to utilize the code, _how_ to download, _how_ to contribute, etc.
-
-
-**[`ReadMe.md` (snip from `master` branch)][github__trap_failure__master__readme_md]**
-
-
-> ## Installation
->
->
-> Add one of the available clone URLs to a current project...
-
-
-```bash
-cd your-project
-
-_url='https://github.com/bash-utilities/trap-failure.git'
-_dir='modules/trap-failure'
-
-git submodule add -b master "${_url}" "${_dir}"
-```
-
-
-> ...
-
-
-**[`ReadMe.md` (snip from `example` branch)][github__trap_failure__example__readme_md]**
-
-
-> The key takeaways from the above script are...
-
-
-```Bash
-set -E -o functrace
-source "${__DIR__}/modules/trap-failure/failure.sh"
-trap 'failure "LINENO" "BASH_LINENO" "${BASH_COMMAND}" "${?}"' ERR
-```
-
-
-> - The `set` line allows for one more layer of tracing what tripped the trap within the line number list
->
-> - The `source` line pulls the `failure` function into the same scope as the example usage script
->
-> ...
-
-
-___
-
-
-## Notes
-[heading__notes]: #notes "Additional notable bits and/or takeaways"
-
-
-These examples are intended as _guidelines_ **not** _rules_; ie. bend/break them when necessary. Some language, such as Python and Rust, have the concept of _doc. strings_ or _doc. comments_, and in such cases these generally should answer _"how"_ to utilize a specific function, class, etc.
-
-
-**Takeaways**
-
-
-- When code focuses on answering [_"what?"_][heading__code_answers_what] it is often more readable and easier to maintain.
-
-
-- When comments focus on answering [_"why?"_][heading__comments_answer_why] they're generally more concise and less likely to be ignored.
-
-
-- When documentation focuses on answering [_"how?"_][heading__documentation_answers_how] it can make utilization faster for both those new, and returning, to a project.
-
-
-
-[github__trap_failure_failure_sh]: https://github.com/bash-utilities/trap-failure/blob/v0.0.2/failure.sh "Source code from `bash-utilities/trap-failure` repository"
-
-[github__trap_failure__example__readme_md]: https://github.com/bash-utilities/trap-failure/blob/d0.0.2/README.md "Documentation for example usage of `bash-utilities/trap-failure` repository"
-
-[github__trap_failure__master__readme_md]: https://github.com/bash-utilities/trap-failure/blob/v0.0.2/README.md "Documentation of `bash-utilities/trap-failure` repository"
+[heading__documentation_answers_how]: #documentation-ans

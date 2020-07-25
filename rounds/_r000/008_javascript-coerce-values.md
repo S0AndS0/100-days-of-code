@@ -5,6 +5,7 @@ date: 2020-05-05 10:00:32 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Convert strings to JavaScript Object types where available
 time_to_live: 1800
+category: javascript
 ---
 
 

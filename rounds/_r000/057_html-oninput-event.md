@@ -5,6 +5,7 @@ date: 2020-06-23 15:39:57 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example HTML and JavaScript for `oninput` event
 time_to_live: 1800
+category: html
 ---
 
 

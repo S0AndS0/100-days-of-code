@@ -5,6 +5,7 @@ date: 2020-05-20 09:41:55 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of passing commands to another account
 time_to_live: 1800
+category: bash
 ---
 
 

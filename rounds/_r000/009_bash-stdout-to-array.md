@@ -5,6 +5,7 @@ date: 2020-05-06 10:40:31 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Saving output of a command to an array
 time_to_live: 1800
+category: bash
 ---
 
 

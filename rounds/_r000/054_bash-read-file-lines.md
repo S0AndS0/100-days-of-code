@@ -5,6 +5,7 @@ date: 2020-06-20 13:18:10 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of reading lines from a file without the `cat` command
 time_to_live: 1800
+category: bash
 ---
 
 

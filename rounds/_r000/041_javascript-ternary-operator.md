@@ -5,6 +5,7 @@ date: 2020-06-07 10:49:48 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of conditional (ternary) operator within template literal
 time_to_live: 1800
+category: javascript
 ---
 
 

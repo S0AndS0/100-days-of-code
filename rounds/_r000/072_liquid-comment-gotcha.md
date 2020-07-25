@@ -5,6 +5,7 @@ date: 2020-07-08 11:05:01 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Warning `capture` blocks will interpret code within `comments`
 time_to_live: 1800
+category: liquid
 ---
 
 

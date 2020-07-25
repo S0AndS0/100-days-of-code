@@ -5,6 +5,7 @@ date: 2020-05-23 09:54:00 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of Regular Expression branching/matching
 time_to_live: 1800
+category: bash
 ---
 
 

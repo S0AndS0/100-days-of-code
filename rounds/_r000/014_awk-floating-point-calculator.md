@@ -5,6 +5,7 @@ date: 2020-05-11 08:56:30 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Dependency free floating point math from the command-line
 time_to_live: 1800
+category: awk
 ---
 
 

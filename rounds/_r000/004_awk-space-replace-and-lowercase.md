@@ -5,6 +5,7 @@ date: 2020-05-01 09:28:14 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: String mutation Awk examples
 time_to_live: 1800
+category: awk
 ---
 
 

@@ -5,6 +5,7 @@ date: 2020-07-11 11:36:16 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using `yield` within a function
 time_to_live: 1800
+category: python
 ---
 
 

@@ -5,6 +5,7 @@ date: 2020-05-09 09:51:43 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: RegExp incantations for building absolute directory/file paths
 time_to_live: 1800
+category: nodejs
 ---
 
 

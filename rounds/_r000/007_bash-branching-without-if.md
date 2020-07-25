@@ -5,6 +5,7 @@ date: 2020-05-04 10:10:35 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: "`if`, `then`, and `fi` can be optional when `elif` is not used"
 time_to_live: 1800
+category: bash
 ---
 
 

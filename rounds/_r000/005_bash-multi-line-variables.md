@@ -5,6 +5,7 @@ date: 2020-05-02 11:09:37 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Assigning and appending to multi-line variable with Bash
 time_to_live: 1800
+category: bash
 ---
 
 

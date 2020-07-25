@@ -5,6 +5,7 @@ date: 2020-07-13 12:04:24 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using `Array.reduce()` to count characters in a string
 time_to_live: 1800
+category: javascript
 ---
 
 

@@ -5,6 +5,7 @@ date: 2020-05-27 14:44:54 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: The `{_start_.._end_}` syntax works in places other than `for` loops
 time_to_live: 1800
+category: bash
 ---
 
 

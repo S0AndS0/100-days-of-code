@@ -5,6 +5,7 @@ date: 2020-05-18 14:38:24 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: '`String.indexOf()` returns first index of target character(s) within a string'
 time_to_live: 1800
+category: javascript
 ---
 
 

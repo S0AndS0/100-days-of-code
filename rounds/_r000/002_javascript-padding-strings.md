@@ -5,6 +5,7 @@ date: 2020-04-29 09:41:02 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Zero padding values with JavaScript
 time_to_live: 1800
+category: javascript
 ---
 
 

@@ -5,6 +5,7 @@ date: 2020-06-24 12:35:36 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using callbacks within `for` loop iteration
 time_to_live: 1800
+category: javascript
 ---
 
 

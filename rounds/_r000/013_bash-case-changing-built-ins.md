@@ -5,6 +5,7 @@ date: 2020-05-10 09:16:32 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Lower or upper case strings with Bash built-ins
 time_to_live: 1800
+category: bash
 ---
 
 

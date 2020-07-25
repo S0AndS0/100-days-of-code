@@ -5,6 +5,7 @@ date: 2020-05-12 09:09:49 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of catching/inspecting Bash error states
 time_to_live: 1800
+category: bash
 ---
 
 

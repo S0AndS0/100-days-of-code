@@ -5,6 +5,7 @@ date: 2020-06-30 10:44:25 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using `select` and `option` HTML elements and specific attributes
 time_to_live: 1800
+category: html
 ---
 
 

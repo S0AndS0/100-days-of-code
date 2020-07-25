@@ -5,6 +5,7 @@ date: 2020-05-19 16:16:26 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: '`counter-increment` reverts if checkbox state reverts'
 time_to_live: 1800
+category: css
 ---
 
 

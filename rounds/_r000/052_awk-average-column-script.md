@@ -5,6 +5,7 @@ date: 2020-06-18 10:18:04 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of using ternary operator to default undefined variables
 time_to_live: 1800
+category: awk
 ---
 
 

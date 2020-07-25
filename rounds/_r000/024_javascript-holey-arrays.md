@@ -5,6 +5,7 @@ date: 2020-05-21 14:02:31 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Example of sanitizing empty slots
 time_to_live: 1800
+category: javascript
 ---
 
 
