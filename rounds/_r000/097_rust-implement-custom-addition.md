@@ -13,6 +13,9 @@ Example of implementing math for custom data structure...
 
 
 ```rust
+use std::ops;
+
+
 struct Eggs {
   count: u32
 }
