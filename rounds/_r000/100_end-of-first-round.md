@@ -1,7 +1,7 @@
 ---
 layout: post
 title: End of first round
-date: 2020-08-04 12:10:19 -0700
+date: 2020-08-04 15:10:19 -0700
 #date_updated:  # Optional and formatted like 'date' above
 description: Review of first round learnings from 100 Days of Code challenge
 time_to_live: 1800
