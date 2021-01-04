@@ -18,3 +18,7 @@
 	path = _includes/modules/includes-mathjax
 	url = https://github.com/liquid-utilities/includes-mathjax.git
 	branch = master
+[submodule "includes-attribution"]
+	path = _includes/modules/includes-attribution
+	url = https://github.com/liquid-utilities/includes-attribution.git
+	branch = main
