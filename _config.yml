@@ -42,6 +42,10 @@ collections:
     output: true
     permalink: /:collection/:name/
 
+  r001:
+    output: true
+    permalink: /:collection/:name/
+
 
 attribution:
   title: Attribution
