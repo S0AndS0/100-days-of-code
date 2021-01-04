@@ -6,3 +6,4 @@ Bundler
 vendor
 .bundle
 #Gemfile.lock
+*.swp
