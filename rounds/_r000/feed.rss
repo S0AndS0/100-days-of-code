@@ -6,4 +6,5 @@ collection_home: /r000/
 date: 2020-04-27 21:12:13 -0700
 content_type: xhtml
 permalink: /:collection/:name:output_ext
+vim: filetype=yaml
 ---

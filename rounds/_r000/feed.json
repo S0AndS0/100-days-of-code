@@ -1,10 +1,11 @@
 ---
-layout: modules/feed-atom/feed-atom
+layout: modules/feed-json/feed-json
 title: 000 -- One Hundred Days of Code
+description: Collection of posts for the 100DaysOfCode challange
 collection_name: r000
 collection_home: /r000/
-date: 2020-04-27 11:12:13 -0700
-content_type: xhtml
+date: 2020-04-27 12:12:13 -0700
+expired: true
 permalink: /:collection/:name:output_ext
 vim: filetype=yaml
 ---
