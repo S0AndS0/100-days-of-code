@@ -22,3 +22,7 @@
 	path = _includes/modules/includes-attribution
 	url = https://github.com/liquid-utilities/includes-attribution.git
 	branch = main
+[submodule "feed-json"]
+	path = _layouts/modules/feed-json
+	url = https://github.com/liquid-utilities/feed-json.git
+	branch = main
