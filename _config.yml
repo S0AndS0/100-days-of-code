@@ -43,6 +43,12 @@ collections:
     permalink: /:collection/:name/
 
 
+attribution:
+  title: Attribution
+  class_prefix: attribution
+  auto_font_awesome: true
+
+
 include:
   - .github/
 
