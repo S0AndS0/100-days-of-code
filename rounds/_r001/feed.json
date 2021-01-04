@@ -1,0 +1,10 @@
+---
+layout: modules/feed-json/feed-json
+title: 001 -- One Hundred Days of Code
+description: Collection of posts for the 100DaysOfCode challange
+collection_name: r001
+collection_home: /r001/
+date: 2021-01-03 12:12:13 -0700
+permalink: /:collection/:name:output_ext
+vim: filetype=yaml
+---

@@ -1,0 +1,10 @@
+---
+layout: modules/feed-rss2/feed-rss2
+title: 001 -- One Hundred Days of Code
+collection_name: r001
+collection_home: /r001/
+date: 2021-01-03 21:12:13 -0700
+content_type: xhtml
+permalink: /:collection/:name:output_ext
+vim: filetype=yaml
+---
