@@ -5,6 +5,13 @@ date: 2021-01-05 18:37:46 -0800
 #date_updated:  # Optional and formatted like 'date' above
 description: An overview of how I setup a new Vim plugin project
 time_to_live: 1800
+
+attribution:
+  links:
+    - text: 'Vi -- StackExhange -- How can I merge two dictionaries in Vim?'
+      href: https://vi.stackexchange.com/questions/20842/
+      title: 'How can I merge two dictionaries in Vim?'
+      class: 'fa fa-stack-exchange'
 ---
 
 
@@ -32,6 +39,8 @@ Today was dedicated to preparing a new Vim plugin for publishing later this week
 - [Publish Publicly][heading__publicly_publish]
 
 - [Questions, Comments, or Suggestions][heading__questions_comments_or_suggestions]
+
+- [Attribution](#heading__attribution)
 
 
 ---
@@ -326,6 +335,8 @@ git push hub main
 
 For quick questions or suggestions you may reach out on [Twitter][link__twitter__s0_and_s0]. And to report mistakes, or provide corrections, please utilize [GitHub][link__github__s0ands0__100_days_of_code] to either open an Issue or Pull Request for this repository.
 
+
+---
 
 
 [link__github_utilities__make_readme]: https://github.com/github-utilities/make-readme "Makes new ReadMe file for GitHub repository"
