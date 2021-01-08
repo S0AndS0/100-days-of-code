@@ -56,7 +56,7 @@ echo string(b:dictionary)
 ```
 
 
-Personally I found this to be more than a bit odd. First because most other languages I write treat blocks of code surrounded by `{}` and `[]` somewhat different, and second because generally backslash(s) pressed the character that is escaped. If readers have insights then please share via an [Issue][link__github__s0ands0__100_days_of_code__issue] on GitHub, or reply on [Twitter][link__twitter__s0_and_s0__round_001__day_001].
+Personally I found this to be more than a bit odd. First because most other languages I write treat blocks of code surrounded by `{}` and `[]` somewhat different, and second because backslash(s) generally precede the character that is to be escaped. If readers have insights then please share via an [Issue][link__github__s0ands0__100_days_of_code__issue] on GitHub, or reply on [Twitter][link__twitter__s0_and_s0__round_001__day_001].
 
 
 
