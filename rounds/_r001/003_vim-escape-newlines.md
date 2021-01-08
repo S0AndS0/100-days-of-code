@@ -62,5 +62,5 @@ Personally I found this to be more than a bit odd. First because most other lang
 
 [link__github__s0ands0__100_days_of_code__issue]: https://github.com/S0AndS0/100-days-of-code/issues "Direct link to GitHub Issues for source-code repository for this site"
 
-[link__twitter__s0_and_s0__round_001__day_001]: https://example.com "Link to Tweet about Vim script newline escapement"
+[link__twitter__s0_and_s0__round_001__day_001]: https://twitter.com/S0_And_S0/status/1347405612376850432 "Link to Tweet about Vim script newline escapement"
 
