@@ -47,6 +47,7 @@ collections:
     permalink: /:collection/:name/
 
 
+## liquid-utilities/include-attribution customizations
 attribution:
   title: Attribution
   class_prefix: attribution
