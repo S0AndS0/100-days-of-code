@@ -2,7 +2,7 @@
 layout: post
 title: Vim Plugin Setup
 date: 2021-01-05 18:37:46 -0800
-#date_updated:  # Optional and formatted like 'date' above
+date_updated: 2021-01-07 20:23:48 -0800
 description: An overview of how I setup a new Vim plugin project
 time_to_live: 1800
 
@@ -172,21 +172,26 @@ let g:balanced_braces__loaded = 1
 
 
 ""
-" Merged dictionary without mutation
-" Parameter: {dict} defaults
-" Parameter: {dict} override
+" Merged dictionaries without mutation
+" Parameter: {dict} a:defaults - Dictionary of default key/value pares
+" Parameter: {...dict[]} l:override - Up to 20 dictionaries to merge
 " Return: {dict}
 " See: {docs} :help type()
 " See: {link} https://vi.stackexchange.com/questions/20842/how-can-i-merge-two-dictionaries-in-vim
-function! s:Dict_Merge(defaults, override, ...) abort
+function s:Dict_Merge(defaults, ...) abort
   let l:new = copy(a:defaults)
+  if a:0 == 0
+    return l:new
+  endif
 
-  for [l:key, l:value] in items(a:override)
-    if type(l:value) == type({}) && type(get(l:new, l:key)) == type({})
-      let l:new[l:key] = s:Dict_Merge(l:new[l:key], l:value)
-    else
-      let l:new[l:key] = l:value
-    endif
+  for l:override in a:000
+    for [l:key, l:value] in items(l:override)
+      if type(l:value) == type({}) && type(get(l:new, l:key)) == type({})
+        let l:new[l:key] = Dict_Merge(l:new[l:key], l:value)
+      else
+        let l:new[l:key] = l:value
+      endif
+    endfor
   endfor
 
   return l:new
@@ -209,7 +214,7 @@ let s:defaults = {}
 " See: {docs} :help json_decode()
 if exists('g:balanced_braces')
   if type(g:balanced_braces) == type('') && fnamemodify(g:balanced_braces, ':e') == 'json'
-    let g:balanced_braces = json_decode(readfile(g:balanced_braces))
+    let g:balanced_braces = json_decode(join(readfile(g:balanced_braces), ''))
   endif
 
   if type(g:balanced_braces) == type({})
