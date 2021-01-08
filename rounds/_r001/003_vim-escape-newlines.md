@@ -5,6 +5,9 @@ date: 2021-01-07 20:23:48 -0800
 #date_updated:  # Optional and formatted like 'date' above
 description: Minor gotcha regarding how to escape newlines within Vim scripts
 time_to_live: 1800
+
+tweet:
+  url: https://example.com
 ---
 
 
@@ -59,5 +62,5 @@ Personally I found this to be more than a bit odd. First because most other lang
 
 [link__github__s0ands0__100_days_of_code__issue]: https://github.com/S0AndS0/100-days-of-code/issues "Direct link to GitHub Issues for source-code repository for this site"
 
-[link__twitter__s0_and_s0__round_001__day_001]: https://example.com/ "Link to Tweet about Vim script newline escapement"
+[link__twitter__s0_and_s0__round_001__day_001]: {{ post.tweet.url }} "Link to Tweet about Vim script newline escapement"
 
