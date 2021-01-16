@@ -5,6 +5,9 @@ date: 2021-01-06 13:26:33 -0800
 #date_updated:  # Optional and formatted like 'date' above
 description: Quick Vim script tip on saving a character under the cursor to a variable
 time_to_live: 1800
+
+tweet:
+  url: https://twitter.com/S0_And_S0/status/1346976643898880000
 ---
 
 
