@@ -15,6 +15,9 @@ attribution:
     - text: '@GProgramadora of Twitter'
       url: https://twitter.com/GProgramadora/status/1345478284230987778
       title: What started as a joke inspired the code shared here
+
+tweet:
+  url: https://twitter.com/S0_And_S0/status/1346184633180942336
 ---
 
 
