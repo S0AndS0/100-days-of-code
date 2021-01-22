@@ -12,16 +12,11 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://example.com
+  url: https://twitter.com/S0_And_S0/status/1352137815878987778
   title: Link to Tweet for this post
 
 attribution:
   links:
-    - text: StackOverflow -- 
-      href: 
-      title: 
-      class: fa fa-stack-overflow
-
     - text: Twitter -- Questions from @nitecoda1 regarding `Math.random()` method
       href: https://twitter.com/nitecoda1/status/1351812896196616192
       title: Questions from @nitecoda1 regarding `Math.random()` method
