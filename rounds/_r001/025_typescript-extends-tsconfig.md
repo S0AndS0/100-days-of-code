@@ -2,7 +2,7 @@
 layout: post
 title: TypeScript Extends `tsconfig`
 date: 2021-01-29 21:03:50 -0800
-#date_updated:  # Optional and formatted like 'date' above
+date_updated: 2021-01-30 21:03:50 -0800
 description: Multiple configuration files for a TypeScript project
 time_to_live: 1800
 
@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https:example.com
+  url: https://twitter.com/S0_And_S0/status/1355387125341036544
   title: Link to Tweet for this post
 
 attribution:
@@ -25,7 +25,7 @@ attribution:
 
 
 
-Multiple configuration files for a TypeScript project can be a bit tricky to setup, but is occasionally required for TypeScript projects that involve front-end and back-end code within the same repository. This post covers an example project setup that had sligtly different configurations for CI (Continuous Integration) tests, and source code, transpiling.
+Multiple configuration files for a TypeScript project can be a bit tricky to setup, but is occasionally required for TypeScript projects that involve front-end and back-end code within the same repository. This post covers an example project setup that had slightly different configurations for CI (Continuous Integration) tests, and source code, transpiling.
 
 
 If following along be sure to issue the next few commands prior to utilizing example files...
@@ -33,8 +33,12 @@ If following along be sure to issue the next few commands prior to utilizing exa
 
 ```bash
 git init counter
+
 cd counter
+
 npm init
+
+npm install @types/jest @types/node jest ts-jest typescript
 ```
 
 
