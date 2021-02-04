@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://example.com
+  url: https://twitter.com/S0_And_S0/status/1356844551474995206
   title: Link to Tweet for this post
 
 attribution:
@@ -124,6 +124,4 @@ ______
 [link__github__s0ands0__100_days_of_code]: {{ page.github.repo.url }} "{{ page.github.repo.title }}"
 
 [link__twitter__s0_and_s0]: {{ page.tweet.url }} "{{ page.tweet.title }}"
-
-[link__quaxio__pure_css_digital_clock]: {{ page.attribution.links[0].href }} "{{ page.attribution.links[0].title }}"
 
