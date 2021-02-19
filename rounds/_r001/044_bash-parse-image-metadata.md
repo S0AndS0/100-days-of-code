@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://example.com
+  url: https://twitter.com/S0_And_S0/status/1362214571470168064
   title: Link to Tweet for this post
 ---
 
@@ -74,7 +74,7 @@ The above script was written because a guide I'll be publishing tomorrow has man
 
 
 ```html
-{% raw %}
+{%- raw -%}
 <picture>
   <!-- ... Other source elements... -->
   <img alt="Print screen image of things and stuff"
@@ -82,7 +82,7 @@ The above script was written because a guide I'll be publishing tomorrow has man
        decoding="async"
        src="{{ 'path/to/image.jpeg' | absolute_url }}" />
 </picture>
-{% endraw %}
+{%- endraw -%}
 ```
 
 
@@ -90,7 +90,7 @@ The above script was written because a guide I'll be publishing tomorrow has man
 
 
 ```html
-{% raw %}
+{%- raw -%}
 <picture>
   <!-- ... Other source elements... -->
   <img alt="Print screen image of things and stuff"
@@ -100,7 +100,7 @@ The above script was written because a guide I'll be publishing tomorrow has man
        height="600"
        src="{{ 'path/to/image.jpeg' | absolute_url }}" />
 </picture>
-{% endraw %}
+{%- endraw -%}
 ```
 
 
@@ -146,9 +146,9 @@ Because this was a repetitive task I recorded a Vim macro similar to the followi
 - `x` deletes Visual selection
 
 
-{% raw %}
-After recording the above keystrokes, and using the macro once, I could then type <kbd>@</kbd><kbd>@</kbd> on each line beginning with _`src="{ 'path/to/image.jpeg' | absolute_url }"`_ to have width and height automatically inserted above that line.
-{% endraw %}
+{%- raw -%}
+After recording the above keystrokes, and using the macro once, I could then type <kbd>@</kbd><kbd>@</kbd> on each line beginning with _`src="{{ 'path/to/image.jpeg' | absolute_url }}"`_ to have width and height automatically inserted above that line.
+{%- endraw -%}
 
 
 ______
