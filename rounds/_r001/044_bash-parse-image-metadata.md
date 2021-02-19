@@ -73,7 +73,7 @@ The above script was written because a guide I'll be publishing tomorrow has man
 **Example HTML snip (before)**
 
 
-{%- raw -%}
+{% raw %}
 ```html
 <picture>
   <!-- ... Other source elements... -->
@@ -83,13 +83,13 @@ The above script was written because a guide I'll be publishing tomorrow has man
        src="{{ 'path/to/image.jpeg' | absolute_url }}" />
 </picture>
 ```
-{%- endraw -%}
+{% endraw %}
 
 
 **Example HTML snip (after)**
 
 
-{%- raw -%}
+{% raw %}
 ```html
 <picture>
   <!-- ... Other source elements... -->
@@ -101,7 +101,7 @@ The above script was written because a guide I'll be publishing tomorrow has man
        src="{{ 'path/to/image.jpeg' | absolute_url }}" />
 </picture>
 ```
-{%- endraw -%}
+{% endraw %}
 
 
 Because this was a repetitive task I recorded a Vim macro similar to the following such that formatting was relatively quick...
@@ -146,9 +146,9 @@ Because this was a repetitive task I recorded a Vim macro similar to the followi
 - `x` deletes Visual selection
 
 
-{%- raw -%}
+{% raw %}
 After recording the above keystrokes, and using the macro once, I could then type <kbd>@</kbd><kbd>@</kbd> on each line beginning with _`src="{{ 'path/to/image.jpeg' | absolute_url }}"`_ to have width and height automatically inserted above that line.
-{%- endraw -%}
+{% endraw %}
 
 
 ______
