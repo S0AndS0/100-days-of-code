@@ -73,8 +73,8 @@ The above script was written because a guide I'll be publishing tomorrow has man
 **Example HTML snip (before)**
 
 
-```html
 {%- raw -%}
+```html
 <picture>
   <!-- ... Other source elements... -->
   <img alt="Print screen image of things and stuff"
@@ -82,15 +82,15 @@ The above script was written because a guide I'll be publishing tomorrow has man
        decoding="async"
        src="{{ 'path/to/image.jpeg' | absolute_url }}" />
 </picture>
-{%- endraw -%}
 ```
+{%- endraw -%}
 
 
 **Example HTML snip (after)**
 
 
-```html
 {%- raw -%}
+```html
 <picture>
   <!-- ... Other source elements... -->
   <img alt="Print screen image of things and stuff"
@@ -100,8 +100,8 @@ The above script was written because a guide I'll be publishing tomorrow has man
        height="600"
        src="{{ 'path/to/image.jpeg' | absolute_url }}" />
 </picture>
-{%- endraw -%}
 ```
+{%- endraw -%}
 
 
 Because this was a repetitive task I recorded a Vim macro similar to the following such that formatting was relatively quick...
