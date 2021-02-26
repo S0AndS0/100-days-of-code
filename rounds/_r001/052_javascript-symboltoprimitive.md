@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://example.com
+  url: https://twitter.com/S0_And_S0/status/1365080532674097156
   title: Link to Tweet for this post
 
 attribution:
@@ -26,6 +26,9 @@ attribution:
 
 
 In other programming languages that I'm failure with, such as Rust and Python, there are _magic_ methods that are called for arithmetic, debugging, or representing data, eg...
+
+
+**`example.py`**
 
 
 ```python
@@ -45,6 +48,9 @@ print(a + b)
 
 
 Until recently one of the things about JavaScript that would occasionally trip me up was implicit type coercion, because there are no `__add__` or `__sub__` methods that are called when `+` or `-` operators are used. Instead there are `toString` and `valueOf`, and recently `[Symbol.toPrimitive]` that are used to coerce types, eg...
+
+
+**`example.js`**
 
 
 ```javascript
