@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://example.com
+  url: https://twitter.com/S0_And_S0/status/1367969086844661767
   title: Link to Tweet for this post
 ---
 
@@ -58,6 +58,4 @@ For quick questions or suggestions you may reach out on [Twitter][link__twitter_
 [link__github__s0ands0__100_days_of_code]: {{ page.github.repo.url }} "{{ page.github.repo.title }}"
 
 [link__twitter__s0_and_s0]: {{ page.tweet.url }} "{{ page.tweet.title }}"
-
-[link__post__vim_configure_thesaurus]: {{ 'r001/055-vim-configure-thesaurus/' | absolute_url }}
 
