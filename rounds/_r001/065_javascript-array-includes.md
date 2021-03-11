@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://example.com
+  url: https://twitter.com/S0_And_S0/status/1369798050890321922
   title: Link to Tweet for this post
 
 attribution:
@@ -39,7 +39,7 @@ function fn1(arg) {
 
 console.log(fn1('spam'));
 //> false
-console.log(fn1('NaN'))
+console.log(fn1('NaN'));
 //> true
 ```
 
@@ -55,7 +55,7 @@ function fn2(arg) {
 
 console.log(fn2('ham'));
 //> false
-console.log(fn2(NaN))
+console.log(fn2(NaN));
 //> true
 ```
 
