@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://example.com
+  url: https://twitter.com/S0_And_S0/status/1372336108734976005
   title: Link to Tweet for this post
 
 attribution:
