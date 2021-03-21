@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://example.com
+  url: https://twitter.com/S0_And_S0/status/1373423678764027907
   title: Link to Tweet for this post
 
 attribution:
@@ -28,6 +28,7 @@ Today I learned that Liquid includes files may include other includes &#x1F92F; 
 
 
 These features allow for truly utilizing includes similar to function definitions as well as more dynamic theme code.
+
 
 
 ---
@@ -46,8 +47,6 @@ These features allow for truly utilizing includes similar to function definition
 
 ---
 
-
-______
 
 
 ## `_includes` Directory
