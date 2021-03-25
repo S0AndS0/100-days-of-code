@@ -12,7 +12,7 @@ github:
     title: GitHub repository that builds this site
 
 tweet:
-  url: https://twitter.com/S0_And_S0/status/1374503776116084753
+  url: https://twitter.com/S0_And_S0/status/1374874583405301761
   title: Link to Tweet for this post
 
 attribution:
@@ -20,32 +20,32 @@ attribution:
     - text: MDN -- Using media queries
       href: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
       title: Using media queries
-      class: fa fa-fire-fox
+      class: fa fa-firefox
 
     - text: MDN -- Attribute selectors
       href: https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors
       title: Attribute selectors
-      class: fa fa-fire-fox
+      class: fa fa-firefox
 
     - text: MDN -- page-break-inside
       href: https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-inside
       title: page-break-inside
-      class: fa fa-fire-fox
+      class: fa fa-firefox
 
     - text: MDN -- break-inside
       href: https://developer.mozilla.org/en-US/docs/Web/CSS/break-inside
       title: break-inside
-      class: fa fa-fire-fox
+      class: fa fa-firefox
 
     - text: MDN -- page-break-after
       href: https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-after
       title: page-break-after
-      class: fa fa-fire-fox
+      class: fa fa-firefox
 
     - text: MDN -- break-after
       href: https://developer.mozilla.org/en-US/docs/Web/CSS/break-after
       title: break-after
-      class: fa fa-fire-fox
+      class: fa fa-firefox
 ---
 
 
