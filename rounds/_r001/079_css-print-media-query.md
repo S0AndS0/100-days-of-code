@@ -49,12 +49,14 @@ attribution:
 ---
 
 
-One of useful things that CSS `@media` queries allow for are adjusting page styling when a browser prints to PDF, or paper. For example the following set of CSS rules will expose the full path of links...
+One, of many, useful things that CSS `@media` queries allow for are adjusting page styling when a browser prints to PDF, or paper. For example the following set of CSS rules will expose the full path of links...
 
 
 ```css
 @media print {
-  --url-base: "{{ '/' | absolute_url }}";
+  :root {
+    --url-base: "{{ '/' | absolute_url }}";
+  }
 
   /* All links */
   a::after {
@@ -72,50 +74,6 @@ One of useful things that CSS `@media` queries allow for are adjusting page styl
   }
 }
 ```
-
-
-<style>
-@media print {
-  --url-base: "{{ '/' | absolute_url }}";
-
-  /* All links */
-  a::after {
-    font-size: small;
-  }
-
-  /* Internal path links */
-  a[href=^"/"]::after {
-    content: (var(--url-base)attr(href));
-  }
-
-  /* External page links */
-  a[href=^"http"]::after {
-    content: (attr(href));
-  }
-}
-</style>
-
-
-
-**Example links**
-
-
-```html
-<a href="{{ '/' | relative_url }}">Home</a>
-
-<a href="https://example.com">Example</a>
-```
-
-
-**Example results**
-
-
-<a href="{{ '/' | relative_url }}">Home</a>
-
-<a href="https://example.com">Example</a>
-
-
-> Hint, many desktop web-browsers respond to <kbd>Ctrl</kbd> <kbd>p</kbd> keyboard shortcut for opening a page for printing.
 
 
 ---
