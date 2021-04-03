@@ -61,6 +61,9 @@ man --pager='less --pattern="^\s+-selection"' xclip
 ... by using `!!` trick and a bit of input/output redirection the previous command is injected into my clipboard, and ready for pasting elsewhere!
 
 
+> Note, above `xclip` command may be further shortened to ` xclip -in <<<"!!"`
+
+
 ______
 
 
