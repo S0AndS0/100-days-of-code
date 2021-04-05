@@ -39,9 +39,9 @@ This trick may also be used within Vim scripts, such as inserting HTML open/clos
 
 ```vim
 function! insert_html_tag(name) abort
-  execute 'normal i<' . name . '></' . name '>'
+  execute 'normal i<' . a:name . '></' . a:name '>'
   let l:cursor_position = getpos('.')
-  let l:cursor_position[1] -= length(name) + 3
+  let l:cursor_position[1] -= length(a:name) + 3
   call setpos('.', l:cursor_position)
 endfunction
 ```
