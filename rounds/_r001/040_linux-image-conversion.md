@@ -24,7 +24,7 @@ Today I learned some tools for converting images from the Linux command-line.
 Converting `.png` images to `.jpeg` and `.avif` is posible via `imagemagic` package, and is installable from Debian/Ubuntu repositories...
 
 
-```Bash
+```bash
 sudo apt-get install imagemagic
 ```
 
@@ -32,7 +32,7 @@ sudo apt-get install imagemagic
 ... After which the _`convert`_ command may be used similar to _`mv`_, or similar Unix-like commands, eg...
 
 
-```Bash
+```bash
 convert input.png output.jpeg
 
 convert input.png output.avif
@@ -45,7 +45,7 @@ convert input.png output.avif
 Converting `.png` images to `.webp` may be achived with the `cwebp` package...
 
 
-```Bash
+```bash
 sudo apt-get install cwebp
 ```
 
@@ -53,7 +53,7 @@ sudo apt-get install cwebp
 ... which requires _`-o`_ to denote an output file, eg...
 
 
-```Bash
+```bash
 cwebp input.png -o output.webp
 ```
 
