@@ -60,7 +60,7 @@ ______
 
 - `&` variable prefix allows `let` to operate on options scope, as `:set` does
 
-- `..` performs simple string concatenation to add to the comma-separated setting
+- `..` performs simple string concatenation to add to the comma-separated list of directory paths
 
 
 ______
