@@ -35,7 +35,7 @@ So far the most concise way I've found to achieve _`runtimepath`_ prepending is 
 ```vim
 let s:script_parent_directory = fnamemodify(resolve(expand('<sfile>:p')), ':h:h')
 
-execute 'set runtimepath=' . s:script_parent_directory . ',' . &runtimepath
+let &runtimepath = s:script_parent_directory .. ',' .. &runtimepath
 ```
 
 
@@ -55,14 +55,12 @@ ______
 - `expand('<sfile>:p')` function, expands the _`<sfile>`_ command to the path of current script; the _`:p`_ modifier returns the parent directory
 
 
-**`execute`**
+**`&runtimepath`**
 
 
-- `execute` is similar to _`eval`_ in other languages in that a string is treated as a command
+- `&` variable prefix allows `let` to operate on options scope, as `:set` does
 
-- The `runtimepath` variable is a comma separated list of directory paths
-
-- `&runtimepath` expands to value within `runtimepath` prior to modification
+- `..` performs simple string concatenation to add to the comma-separated list of directory paths
 
 
 ______
