@@ -40,7 +40,7 @@ But these motions are all relative to the initial cursor position, to instead mo
 
 - <kbd>5</kbd><kbd>G</kbd> moves the cursor to the fifth line of current buffer/file
 
-- <kbd>G</kbd><kbd>G</kbd> moves the cursor to the first line of current buffer/file
+- <kbd>g</kbd><kbd>g</kbd> moves the cursor to the first line of current buffer/file
 
 
 **Column Motions**
