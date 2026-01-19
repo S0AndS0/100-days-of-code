@@ -41,7 +41,7 @@ tweet:
 [heading__syntax]: #syntax
 
 
-Search current line for `__search__`, then find pattern `__find__` and replace with `__repalce__` syntax...
+Search current line for `__search__`, then find pattern `__find__` and replace with `__replace__` syntax...
 
 
 ```vim
